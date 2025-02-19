@@ -1,0 +1,29 @@
+{
+  "name": "food-check-backend",
+  "version": "1.0.0",
+  "description": "Backend for food-check application",
+  "keywords": [
+    "food",
+    "check",
+    "comparison"
+  ],
+  "homepage": "https://github.com/babtor/food-check#readme",
+  "bugs": {
+    "url": "https://github.com/babtor/food-check/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babtor/food-check.git"
+  },
+  "license": "ISC",
+  "author": "Lucas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^24.2.1"
+  }
+}
